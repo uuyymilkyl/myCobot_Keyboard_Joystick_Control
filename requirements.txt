@@ -1,0 +1,8 @@
+pyserial
+python-can
+pytest
+flake8
+crc
+pygame
+pymycobot
+pynput
