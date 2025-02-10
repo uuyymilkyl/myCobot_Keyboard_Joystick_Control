@@ -1,6 +1,6 @@
 # myCobot_Keyboard_Joystick Control
 
-Provide  expand code for simple teaching with **keyboard control** and **joystick control** for the **myCobot mechArm** series robotic arms. The joystick can be purchased as a basic 2.4G MP4 remote control (which can be read using the pygame library).
+Provide  expand code for simple teaching with **keyboard control** and **joystick control** for the **myCobot mechArm** series robotic arms. The joystick can be purchased as a basic 2.4G joystick (which can be read using the pygame library).
 
 in 5min after you updating driver follow [base function burn](https://docs.elephantrobotics.com/docs/mycobot_280_m5_en/3-FunctionsAndApplications/5.BasicFunction/5.2-Softwarelnstructions/)
 
